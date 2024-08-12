@@ -9,12 +9,18 @@ I mainly specialize in Backend, but I am not deprived of the ability to put toge
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </a>
+<a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+</a>
 <a href="https://en.wikipedia.org/wiki/Spring_Framework">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 </a><br/>
 
 <a href="https://en.wikipedia.org/wiki/Node.js">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+</a>
+<a href="https://nestjs.com/">
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/React_(software)">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
