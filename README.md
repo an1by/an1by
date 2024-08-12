@@ -1,4 +1,4 @@
-<p align="center"><img src="./aniby.png"  width="240px"/></p>
+<p align="center"><img src="./computer.png"  width="240px"/></p>
 <h1 align="center">Hi <img src="./wave.gif" width="30px">, I'm An1by</h1>
 <h3 align="center">I'm a Full-Stack Developer</h3><br/>
 
