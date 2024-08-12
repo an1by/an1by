@@ -1,8 +1,8 @@
 <p align="center"><img src="./computer.png"  width="240px"/></p>
 <h1 align="center">Hi <img src="./wave.gif" width="30px">, I'm An1by</h1>
-<h3 align="center">I'm a Full-Stack Developer</h3><br/>
+<h3 align="center">Full-Stack Developer</h3><br/>
 
-I'm programmer who has excelled in learning Java, Python, Web.\
+Programmer who has excelled in learning Java, TS/JS, Python.\
 I mainly specialize in Backend, but I am not deprived of the ability to put together something easy or make a simple design (Frontend).
 
 ### My stacks:
